@@ -1,0 +1,11 @@
+Werkstatt B2 – iPhone PWA
+
+المحتويات: index.html + manifest + service worker + icons.
+
+طريقة التثبيت على iPhone:
+1) خاص الملفات تكون منشورة على رابط HTTPS (مثلاً Cloudflare Pages أو Netlify). فتح index.html مباشرة من Files لا يكفي لتثبيت PWA أو تفعيل العمل Offline.
+2) افتح الرابط في Safari.
+3) اضغط Share ثم Add to Home Screen ثم Add.
+4) افتح التطبيق من الأيقونة. بعد أول تحميل ناجح، كيتخزن التطبيق للاستعمال Offline.
+
+ملاحظة: وظائف الذكاء الاصطناعي/Claude تحتاج الإنترنت والخدمة المرتبطة بها؛ المحتوى والتمارين المخزنة داخل الصفحة يمكن فتحها Offline.
